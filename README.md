@@ -47,7 +47,7 @@ openskills install anthropics/skills
 openskills sync
 ```
 
-同步后会生成 `AGENTS.md`，把本仓库的 `training-course-template/`放到`.claude\skills\`目录下。
+同步后会生成 `AGENTS.md`，本仓库的 `training-course-template/`应该保持在`.claude\skills\`目录下。
 
 ### 4. Python 依赖
 
