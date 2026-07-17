@@ -1,0 +1,17 @@
+# openskills 生成 / 安装（引用，不入库）
+AGENTS.md
+.claude/skills/*
+!.claude/skills/training-course-template/
+!.claude/skills/training-course-template/**
+
+# 运行产物与源课件
+output/
+work_*/
+src_unpacked_*/
+media_png_*/
+__pycache__/
+*.pyc
+*_converted.pptx
+*.ppt
+.cursor/
+node_modules/
